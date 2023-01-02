@@ -1,8 +1,7 @@
 
-
 //commit anything with slash
 
-                                // class 01
+// class 01
 
 console.clear();
 
@@ -26,7 +25,7 @@ console.clear();
 
 // window.confirm("this is a confrim box");
 
-            // variables
+// variables
 // a=5
 // b=10
 // console.log(a+b);
@@ -45,9 +44,9 @@ console.clear();
 
 
 
-                                    // class 02
- 
-           // primitive data
+// class 02
+
+// primitive data
 
 // number 
 
@@ -79,43 +78,38 @@ console.clear();
 // b=typeof(a);
 // document.write(b);
 
-              // Reference data type
+// Reference data type
 
-    //   Array
+//   Array
 
-    // let car=['BMW','BUGATTI','FERRARI','ODDY','LAMBORGHINI'];
-    // document.write(car);
+// let car=['BMW','BUGATTI','FERRARI','ODDY','LAMBORGHINI'];
+// document.write(car);
 
-    // let car=['BMW','BUGATTI','FERRARI','ODDY','LAMBORGHINI'];
-    // document.write(car[2]);
+// let car=['BMW','BUGATTI','FERRARI','ODDY','LAMBORGHINI'];
+// document.write(car[2]);
 
-    // let car=['BMW','BUGATTI','FERRARI','ODDY','LAMBORGHINI'];
-    // console.log(car);
+// let car=['BMW','BUGATTI','FERRARI','ODDY','LAMBORGHINI'];
+// console.log(car);
 
-    // let person=['shah',19,null,true,undefined];
-    // document.write(person);
+// let person=['shah',19,null,true,undefined];
+// document.write(person);
 
-            // prompt
+// prompt
 
-    // prompt('enter your name');
+// prompt('enter your name');
 
-    // let a=prompt('enter ur papa ka naam');
-    // document.write(a);
+// let a=prompt('enter ur papa ka naam');
+// document.write(a);
 
-                // task user promopt & Array
+// task user promopt & Array
 
-    // let car=['BMW','BUGATTI','FERRARI','ODDY','LAMBORGHINI'];
-    // document.write(car[prompt('khan bhai likh')]);   
-    
-    // let car=[prompt("enter name"),prompt("enter name"),prompt("enter name"),prompt("enter name"),prompt("enter name")];
-    // document.write(car);   
+// let car=['BMW','BUGATTI','FERRARI','ODDY','LAMBORGHINI'];
+// document.write(car[prompt('khan bhai likh')]);   
 
-
-                // Object
-    let bike={}
+// let car=[prompt("enter name"),prompt("enter name"),prompt("enter name"),prompt("enter name"),prompt("enter name")];
+// document.write(car);   
 
 
-
- 
-
+// Object
+let bike = {}
 
